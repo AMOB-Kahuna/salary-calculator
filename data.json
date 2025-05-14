@@ -1,0 +1,65 @@
+{
+    "countries": {
+      "Palestine": {
+        "Designer": 25000,
+        "Doctor": 60000,
+        "Engineer": 40000,
+        "Driver": 15000
+      },
+      "Pakistan": {
+        "Designer": 30000,
+        "Doctor": 70000,
+        "Engineer": 45000,
+        "Driver": 20000
+      },
+      "Yemen": {
+        "Designer": 20000,
+        "Doctor": 55000,
+        "Engineer": 35000,
+        "Driver": 12000
+      },
+      "Kenya": {
+        "Designer": 35000,
+        "Doctor": 75000,
+        "Engineer": 50000,
+        "Driver": 25000
+      },
+      "Turkey": {
+        "Designer": 40000,
+        "Doctor": 80000,
+        "Engineer": 55000,
+        "Driver": 30000
+      },
+      "South Africa": {
+        "Designer": 30000,
+        "Doctor": 65000,
+        "Engineer": 45000,
+        "Driver": 18000
+      },
+      "United States": {
+        "Designer": 70000,
+        "Doctor": 150000,
+        "Engineer": 100000,
+        "Driver": 50000
+      },
+      "United Kingdom": {
+        "Designer": 65000,
+        "Doctor": 140000,
+        "Engineer": 95000,
+        "Driver": 45000
+      },
+      "Singapore": {
+        "Designer": 60000,
+        "Doctor": 130000,
+        "Engineer": 90000,
+        "Driver": 40000
+      },
+      "Australia": {
+        "Designer": 75000,
+        "Doctor": 160000,
+        "Engineer": 110000,
+        "Driver": 55000
+      }
+    }
+  }
+  
